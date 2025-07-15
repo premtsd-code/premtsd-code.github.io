@@ -22,7 +22,7 @@ body {
   position: relative;
 }
 
-/* Matrix-like background effect */
+/* Matrix-like background effect */ /*check*/
 .portfolio-main::before {
   content: '';
   position: fixed;
